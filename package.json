@@ -1,0 +1,27 @@
+{
+  "name": "back-end-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giathuan0310/BE_withNodejs.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giathuan0310/BE_withNodejs/issues"
+  },
+  "homepage": "https://github.com/giathuan0310/BE_withNodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
